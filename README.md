@@ -89,8 +89,11 @@ No license has been specified for this project yet.
 ## About Me
 
 **Madhav Chaturvedi**
+
 GitHub: [@chaturvedimadhav2004-byte](https://github.com/chaturvedimadhav2004-byte)
+
 Email: [chaturvedimadhav2004@gmail.com](mailto:chaturvedimadhav2004@gmail.com)
+
 LinkedIn: [madhav-chaturvedi](https://www.linkedin.com/in/madhav-chaturvedi-598868260)
 
 Feel free to reach out or connect if you have questions, feedback, or suggestions about this project!
